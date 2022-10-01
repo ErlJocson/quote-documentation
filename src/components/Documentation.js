@@ -7,28 +7,29 @@ function Documentation() {
       <h2>Documentation</h2>
       <div>
         <p className="title">
-          <strong>Base url:</strong> https://random-quotes-spring.herokuapp.com/
+          <strong>Base url: </strong>
+          <em>https://random-quotes-spring.herokuapp.com/</em>
         </p>
         <p>This url will give a 404 error.</p>
       </div>
       <div>
         <p className="title">
-          <strong>Get all quotes:</strong>
-          https://random-quotes-spring.herokuapp.com/api/v1/quote/all
+          <strong>Get all quotes: </strong>
+          <em>https://random-quotes-spring.herokuapp.com/api/v1/quote/all</em>
         </p>
         <p>This will return all quotes available in the database</p>
       </div>
       <div>
         <p className="title">
-          <strong> Get one random quote:</strong>
-          https://random-quotes-spring.herokuapp.com/api/v1/quote/1
+          <strong> Get one random quote: </strong>
+          <em>https://random-quotes-spring.herokuapp.com/api/v1/quote/1</em>
         </p>
         <p>This will return one random quote from the database</p>
       </div>
       <div>
         <p className="title">
           <strong>Post a new quote: </strong>
-          https://random-quotes-spring.herokuapp.com/api/v1/quote/
+          <em>https://random-quotes-spring.herokuapp.com/api/v1/quote/</em>
         </p>
         <p>Use this url endpoint to add new quote to the database</p>
         <p>
